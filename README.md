@@ -58,7 +58,7 @@ Android / Java. Bewusst schlicht gehalten:
 
 Die Firebase-Projektkonfiguration (`google-services.json`) liegt bewusst **nicht** im Repo; zum Bauen muss eine eigene ergänzt werden.
 
-## Status (ehrlich)
+## Status
 
 Prototyp — einige Bausteine laufen vollständig, andere sind bewusst als Konzept angelegt:
 
