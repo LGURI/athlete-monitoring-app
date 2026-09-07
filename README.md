@@ -20,9 +20,15 @@ Die **Verletzungs-Risiko-Ampel** (grün / gelb / rot) setzt den interpretierbare
 
 ## Screenshots
 
+**Spieler-App**
+
 | Spieler-Startseite | Wellness-Erfassung | Schmerzkarte |
 |---|---|---|
 | ![Startseite](screenshots/home.png) | ![Wellness-Erfassung](screenshots/wellbeing.png) | ![Schmerzkarte](screenshots/schmerzkarte.png) |
+
+**Trainer-Sicht: Digitale Akte & Polar-Auswertung**
+
+<img src="screenshots/digitale_akte.png" width="300"> <img src="screenshots/leistungsdaten.png" width="300">
 
 ## Funktionen
 
